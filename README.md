@@ -19,4 +19,5 @@ This project was created using:
 
 https://v-earl.github.io/Password-Generator/
 
-![image](https://user-images.githubusercontent.com/57978129/75040284-fff44600-547f-11ea-8852-c2549dc49244.png)
+
+![image](https://user-images.githubusercontent.com/57978129/75040454-4c3f8600-5480-11ea-9821-b97dd976f986.png)
