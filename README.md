@@ -18,3 +18,5 @@ This project was created using:
 *JavaScript
 
 https://v-earl.github.io/Password-Generator/
+
+![image](https://user-images.githubusercontent.com/57978129/75040284-fff44600-547f-11ea-8852-c2549dc49244.png)
