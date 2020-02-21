@@ -16,3 +16,5 @@ This project was created using:
 *HTML
 *CSS
 *JavaScript
+
+https://v-earl.github.io/Password-Generator/
